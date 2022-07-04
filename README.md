@@ -5,7 +5,7 @@
 <h3>🛠 Tech Stack </h3>
 
 - 💻 &nbsp; Vue.js | Nuxt.js | Java | C++  
-- 🌐 &nbsp; Flutter | HTML | CSS | JavaScript | Tailwind 
+- 🌐 &nbsp; Flutter | HTML | CSS | JavaScript | Tailwind | Bulma
 - 🛢 &nbsp; MySQL | Firebase | Xampp
 - 🔧 &nbsp; Visual Studio code | IntelliJ | Git
 - 🔎 &nbsp; Google Analytics
@@ -13,12 +13,13 @@
 <br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BeckmannArmin&repo=Whitebird)](https://github.com/BeckmannArmin/Whitebird)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BeckmannArmin&repo=conForm)](https://github.com/BeckmannArmin/conForm)
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=BeckmannArmin&show_icons=true&layout=compact&title_color=f9f9f9&icon_color=f9f9f9&text_color=f9f9f9&bg_color=DEG,a8c0ff,3f2b96)
+![Github stats](https://github-readme-stats.vercel.app/api?username=BeckmannArmin&show_icons=true&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeckmannArmin&layout=compact&title_color=f9f9f9&icon_color=f9f9f9&text_color=f9f9f9&bg_color=DEG,a8c0ff,3f2b96)](https://github.com/devSouvik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeckmannArmin&layout=compact)](https://github.com/devSouvik/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
