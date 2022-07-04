@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Some stats](https://github-readme-stats.vercel.app/api?username=BeckmannArmin&show_icons=true)
+![Some stats](https://github-readme-stats.vercel.app/api?username=BeckmannArmin&show_icons=true&layout=compact&text_color=daf7dc&bg_color=151515)
 
 <!--
 **BeckmannArmin/BeckmannArmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
