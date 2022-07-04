@@ -2,6 +2,13 @@
 
 <img src="https://komarev.com/ghpvc/?username=BeckmannArmin" alt="Profile Views" />
 
+I´m a frontend developer able to build web presences from the ground up - from concept, navigation, layout and programming. Fast learner, hard worker and team player who is proficient in an array of scripting languages and web technologies.
+
+I have good design & coding skills, as well as an ability to convert requirements into exciting projects.
+
+I used to work a alot with [WordPress](https://wordpress.com/de/) & [Oxygen Builder](https://oxygenbuilder.com/) recently, combining plugin functionaility, analytics in e-commerce and company sites and can say that I have a profound knowledge of these tools as well.
+
+
 <h3>🛠 Tech Stack </h3>
 
 - 💻 &nbsp; Vue.js | Nuxt.js | Java | C++  
@@ -12,10 +19,14 @@
 
 <br>
 
+<h3> ✨ Some of my Github repos </h3>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BeckmannArmin&repo=Whitebird)](https://github.com/BeckmannArmin/Whitebird)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BeckmannArmin&repo=conForm)](https://github.com/BeckmannArmin/conForm)
 
+
+<h3> 🔎 Github Stats </h3>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=BeckmannArmin&show_icons=true&layout=compact)
 
