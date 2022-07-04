@@ -12,6 +12,11 @@
 
 <br>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BeckmannArmin&repo=Whitebird)](https://github.com/BeckmannArmin/Whitebird)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BeckmannArmin&repo=conForm)](https://github.com/BeckmannArmin/conForm)
+
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=BeckmannArmin&show_icons=true&layout=compact&text_color=f9f9f9&bg_color=151515)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeckmannArmin&layout=compact&text_color=f9f9f9&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
