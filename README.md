@@ -8,7 +8,7 @@ I have good design & coding skills, as well as an ability to convert requirement
 
 I used to work a alot with [WordPress](https://wordpress.com/de/) & [Oxygen Builder](https://oxygenbuilder.com/) recently, combining plugin functionaility, analytics in e-commerce and company sites and can say that I have a profound knowledge of these tools as well.
 
-My tech stack focuses mainly on frontend frameworks. I would see my self as a frontend developer, however I am not back scared to work on the the server side.
+My tech stack focuses mainly on frontend frameworks. I would see my self as a frontend developer, however I am not scared to work on the the server side.
 
 
 <h3>🛠 Tech Stack </h3>
