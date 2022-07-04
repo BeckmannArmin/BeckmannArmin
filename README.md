@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 Hi there, I´m [Armin Beckmann](https://www.linkedin.com/in/armin-beckmann/)
+> a passionate frontend developer
 
 ![Some stats](https://github-readme-stats.vercel.app/api?username=BeckmannArmin&show_icons=true&layout=compact&text_color=f9f9f9&bg_color=151515)
 
