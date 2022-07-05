@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=BeckmannArmin" alt="Profile Views" />
 
-I´m a frontend developer able to build web presences from the ground up - from concept, navigation, layout and programming. Fast learner, hard worker and team player who is proficient in an array of scripting languages and web technologies.
+I´m an open minded and creative frontend developer able to build web presences from the ground up - from concept, navigation, layout and programming. Fast learner, hard worker and team player who is proficient in an array of scripting languages and web technologies.
 
 I have good design & coding skills, as well as an ability to convert requirements into exciting projects.
 
