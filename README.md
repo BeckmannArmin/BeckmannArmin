@@ -27,6 +27,8 @@ My tech stack focuses mainly on frontend frameworks. I would see my self as a fr
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BeckmannArmin&repo=conForm)](https://github.com/BeckmannArmin/conForm)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BeckmannArmin&repo=Masterarbeit-v2)](https://github.com/BeckmannArmin/Masterarbeit-v2)
+
 
 <h3> 🔎 Github Stats </h3>
 
