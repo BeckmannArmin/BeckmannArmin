@@ -34,7 +34,7 @@ My tech stack focuses mainly on frontend frameworks. I would see my self as a fr
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=BeckmannArmin&show_icons=true&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeckmannArmin&layout=compact)](https://github.com/BeckmannArmin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeckmannArmin&layout=compact&langs_count=5)](https://github.com/BeckmannArmin)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
