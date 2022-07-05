@@ -23,7 +23,7 @@ My tech stack focuses mainly on frontend frameworks. I would see my self as a fr
 
 <h3> ✨ Some of my Github repos </h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BeckmannArmin&repo=Masterarbeit-v2)](https://github.com/BeckmannArmin/Masterarbeit-v2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BeckmannArmin&repo=Masterarbeit-v2&langs_count=5)](https://github.com/BeckmannArmin/Masterarbeit-v2)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BeckmannArmin&repo=Whitebird)](https://github.com/BeckmannArmin/Whitebird)
 
