@@ -30,12 +30,6 @@ My tech stack focuses mainly on frontend frameworks. I would see my self as a fr
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BeckmannArmin&repo=conForm)](https://github.com/BeckmannArmin/conForm)
 
 
-<h3> 🔎 Github Stats </h3>
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=BeckmannArmin&show_icons=true&layout=compact&count_private=true&include_all_commits=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeckmannArmin&layout=compact)](https://github.com/BeckmannArmin)
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="start">
