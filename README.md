@@ -13,11 +13,17 @@ My tech stack focuses mainly on frontend frameworks. I would see my self as a fr
 
 <h3>🛠 Tech Stack </h3>
 
-- 💻 &nbsp; Vue.js | Nuxt.js | React | Dart 
-- 🌐 &nbsp; Flutter | HTML | SASS | JavaScript | Tailwind | | GSAP
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Visual Studio Code | IntelliJ | Git
-- 🔎 &nbsp; Google Analytics
+💻   Frontend: React | Vue | Nuxt | Dart
+
+🌐   Web: Flutter | HTML | SASS | JavaScript | Tailwind | GSAP
+
+🛢   Backend & Databases: MySQL | Firebase | Xampp
+
+🔧   Development Tools: Visual Studio Code | IntelliJ | Git
+
+🛠   DevOps: GitHub Workflows | Azure DevOps | CI/CD Pipelines
+
+🔎   Analytics & Monitoring: Google Analytics | Matomo
 
 <br>
 
